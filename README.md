@@ -1,7 +1,3 @@
-Here’s an updated README file including the technologies used:
-
----
-
 # Sahaj AI
 
 ## Overview
